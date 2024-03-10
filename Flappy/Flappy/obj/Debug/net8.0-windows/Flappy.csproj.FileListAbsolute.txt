@@ -1,0 +1,17 @@
+C:\Users\Windows\source\repos\Flappy\Flappy\bin\Debug\net8.0-windows\Flappy.exe
+C:\Users\Windows\source\repos\Flappy\Flappy\bin\Debug\net8.0-windows\Flappy.deps.json
+C:\Users\Windows\source\repos\Flappy\Flappy\bin\Debug\net8.0-windows\Flappy.runtimeconfig.json
+C:\Users\Windows\source\repos\Flappy\Flappy\bin\Debug\net8.0-windows\Flappy.dll
+C:\Users\Windows\source\repos\Flappy\Flappy\bin\Debug\net8.0-windows\Flappy.pdb
+C:\Users\Windows\source\repos\Flappy\Flappy\obj\Debug\net8.0-windows\Flappy.Form1.resources
+C:\Users\Windows\source\repos\Flappy\Flappy\obj\Debug\net8.0-windows\Flappy.csproj.GenerateResource.cache
+C:\Users\Windows\source\repos\Flappy\Flappy\obj\Debug\net8.0-windows\Flappy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\source\repos\Flappy\Flappy\obj\Debug\net8.0-windows\Flappy.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\Flappy\Flappy\obj\Debug\net8.0-windows\Flappy.AssemblyInfo.cs
+C:\Users\Windows\source\repos\Flappy\Flappy\obj\Debug\net8.0-windows\Flappy.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\Flappy\Flappy\obj\Debug\net8.0-windows\Flappy.dll
+C:\Users\Windows\source\repos\Flappy\Flappy\obj\Debug\net8.0-windows\refint\Flappy.dll
+C:\Users\Windows\source\repos\Flappy\Flappy\obj\Debug\net8.0-windows\Flappy.pdb
+C:\Users\Windows\source\repos\Flappy\Flappy\obj\Debug\net8.0-windows\Flappy.genruntimeconfig.cache
+C:\Users\Windows\source\repos\Flappy\Flappy\obj\Debug\net8.0-windows\ref\Flappy.dll
+C:\Users\Windows\source\repos\Flappy\Flappy\obj\Debug\net8.0-windows\Flappy.Properties.Resources.resources
